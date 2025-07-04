@@ -1,0 +1,12 @@
+pre{
+    font-weight:500;
+}
+body{
+    background-color: grey;
+}
+#calculate{
+    height:30px;
+    width:90px;
+    
+    border-radius: 30px;;
+}
